@@ -12,3 +12,9 @@ Hi, I am Evgeniya!
        <img width="175px" src="https://komarev.com/ghpvc/?username=Evgeniya-green&color=DE002D">
    </a>
 </div>
+
+Technical Stack
+*   HTML,CSS,JS,JQuery,PHP
+*   MySQL
+*   Vue Framework
+*   GitHub/GitLab
